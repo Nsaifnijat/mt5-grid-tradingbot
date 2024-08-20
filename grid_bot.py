@@ -6,7 +6,7 @@ import time
 from mt5_functions import *
 mt.initialize()
 
-#to login
+#replace the below dummy credentials
 login = 65544
 password='nnnnn'
 server='Exness-Server'
